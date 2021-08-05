@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lawfets
 - 👀 I’m interested in all different kinds of programming languages
-- 🌱 I’m currently learning C++, python, javascript
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on something that interests me, not yet searched for.
 - 📫 How to reach me, you can't until I know how to safely do it.
 
