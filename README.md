@@ -3,7 +3,6 @@
 - I have basic knowledge of all languages that follow but I'm restarting as it has been a while since I learned them.
 - I’m currently learning PHP and MySQL.  
 - Really interested in computer repair, laptop repair and computer electronics.
-- Trying to gather more and more motherboards or broken laptops/pc's to have spare parts for repairs.
 
 <!---
 lawfets/lawfets is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
